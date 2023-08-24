@@ -1,0 +1,21 @@
+
+@media screen and (min-width: 1013px){
+    .nav_bg{
+        height: 90px !important;        
+    }
+    
+}
+
+@media screen and (min-width: 1200px){
+    .font-white a{
+        letter-spacing: 2px;
+    }
+    .space-nav li{
+        padding: 0px 5px !important;
+    }
+}
+@media screen and (min-width: 768px){
+    .spacer{
+        padding: 120px 200px;
+    }
+}

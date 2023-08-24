@@ -1,0 +1,23 @@
+.upper-case{
+    text-transform: uppercase;
+}
+
+.letter-space{
+    letter-spacing: 3px;
+}
+.enjoy-color{
+    background-color: #222222;
+}
+.cappa-font{
+    font-family: 'Barlow Condensed', sans-serif !important;
+    font-size: 16px;
+}
+.time-family{
+    font-family: 'Times New Roman', Times, serif;
+}
+.cappa-font-color{
+    color: #584d0a !important;
+}
+.enjoy-font-size{
+    font-size: 50px;
+}

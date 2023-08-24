@@ -1,0 +1,63 @@
+/* -------------------------------------------- Start Navbar ------------------------------------------------- */
+.nav_bg{
+    background-color: #1b1b1b;
+    font-family: 'Barlow Condensed', sans-serif !important;
+    font-size: 16px;
+}
+.nav-arrow{
+    font-size: 15px;    
+}
+.font-white a{
+    color: white !important;
+}
+.font-white a:hover{
+    color: #51460a  !important;
+    font-weight: bold;
+}
+.sub-black a{
+    color: #777674 !important;
+    font-size: 17px;
+    /* font-weight:bold !important; */
+}
+.z-index{
+    z-index: 10;
+}
+/* -------------------------------------------- End Navbar ------------------------------------------------- */
+
+/* -------------------------------------------- Start Slider ------------------------------------------------- */
+.mar-end{
+    margin-right: 3px;
+}
+.img-slider{
+    height: 700px;
+}
+.btn-slide{
+    padding: 9px 20px;
+    color: white;
+    border: 1px solid white;
+    background-color: transparent;
+}
+.c-1{
+    font-size: 20px;
+}
+.c-2{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:  100;
+    letter-spacing: 2px;
+}
+/* -------------------------------------------- End Slider ------------------------------------------------- */
+
+
+/* -------------------------------------------- Enjoy Section ------------------------------------------------- */
+.img-1{
+    width: 261px;
+    height: 348px;
+}
+.mt-90{
+    margin-top: 90px;
+}
+.mb-30{
+    margin-bottom: 30px;
+}
+/* -------------------------------------------- Enjoy Section ------------------------------------------------- */
