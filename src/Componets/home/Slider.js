@@ -13,7 +13,7 @@ export default function Slider() {
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src={require('../img/asset 6.jpeg')} className="d-block w-100 img-slider" alt="..." />
+                        <img src={require('../../img/asset 6.jpeg')} className="d-block w-100 img-slider" alt="..." />
 
                         <div class="carousel-caption d-none d-md-block ">
                             <p className='text-warning latter-space'>
@@ -25,7 +25,7 @@ export default function Slider() {
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src={require('../img/asset 1.jpeg')} className="d-block w-100 img-slider" alt="..." />
+                        <img src={require('../../img/asset 1.jpeg')} className="d-block w-100 img-slider" alt="..." />
 
                         <div class="carousel-caption d-none d-md-block">
                             <p className='text-warning latter-space'>
@@ -37,7 +37,7 @@ export default function Slider() {
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src={require('../img/asset 3.jpeg')} className="d-block w-100 img-slider" alt="..." />
+                        <img src={require('../../img/asset 3.jpeg')} className="d-block w-100 img-slider" alt="..." />
 
                         <div class="carousel-caption d-none d-md-block">
                             <p className='text-warning latter-space'>

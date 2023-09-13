@@ -21,10 +21,10 @@ export default function EnjoySection() {
                         </p>
                     </div>
                     <div className="col col-md-3 animate-box fadeInUp animated " data-animate-effect="fadeInUp">
-                        <img src={require('../img/asset 1.jpeg')} className='mt-90 mb-30 img-1'  />
+                        <img src={require('../../img/asset 1.jpeg')} className='mt-90 mb-30 img-1'  />
                     </div>
                     <div className='col col-md-3 animate-box fadeInUp animated'  data-animate-effect="fadeInUp">
-                        <img src={require('../img/asset 2.jpeg')} className='img-1' />
+                        <img src={require('../../img/asset 2.jpeg')} className='img-1' />
 
                     </div>
                 </div>
